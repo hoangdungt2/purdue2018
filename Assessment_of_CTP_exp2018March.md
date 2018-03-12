@@ -64,7 +64,7 @@ plt.show()
           fitting error is 0.69%
           improvement of ESC over Baseline is 1.79%
     
-
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 ![png](output_3_1.png)
 
